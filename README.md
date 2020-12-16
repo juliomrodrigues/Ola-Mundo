@@ -1,2 +1,2 @@
 # Ola Mundo
- Primeiro repositório para fins de teste de versionamento
+ Primeiro repositório para fins de teste de versionamento.
